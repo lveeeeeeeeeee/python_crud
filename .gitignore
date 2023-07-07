@@ -1,0 +1,11 @@
+/config.ini 
+/CRUD.spec
+/db.ui
+/login.ui
+/query_window.ui
+/update_window.ui
+/build/
+/env/
+/dist/
+/.idea/
+/__pycache__/
